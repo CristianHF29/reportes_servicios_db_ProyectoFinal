@@ -151,7 +151,7 @@ npm run dev
 ------------------------------------------------------------------------
 ## ▶ Usuarios
 
-### Adming: adming@demo.com
+### Admin: adming@demo.com
 Password: 12345678
 
 ### Tecnico: tec1@demo.com
