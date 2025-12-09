@@ -168,6 +168,8 @@ Password: tec12345
 -   Todo el frontend funciona con React y se integra mediante Vite en el
     layout de Laravel.
 
+    #Hay que correr PHP ARTISAN SERVE y NPM RUN DEV en diferentes terminales.
+
 ------------------------------------------------------------------------
 
 ## 📄 Licencia
